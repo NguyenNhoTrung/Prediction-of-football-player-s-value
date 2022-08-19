@@ -18,4 +18,4 @@ Therefore, evaluation of player values is very important for team managers, espe
 players that they want to sign. This project aims to help managers estimate player prices based on
 player statistics and their performance in the past, and particularly the 2021-2022 season. Our project
 is applying Machine Learning methods to predict the price of football players who are playing in the
-top 5 leagues in Europe: Premier League, La Liga, Bundesliga, Serie A and Ligue 1
+top 5 leagues in Europe: Premier League, La Liga, Bundesliga, Serie A and Ligue 1.
